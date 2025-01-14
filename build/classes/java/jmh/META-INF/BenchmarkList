@@ -1,0 +1,3 @@
+JMH S 30 benchmark.WaveletTreeBenchmark S 63 benchmark.jmh_generated.WaveletTreeBenchmark_testAccess_jmhTest S 10 testAccess S 11 AverageTime E A 1 1 1 E I 1 2 E E I 1 5 E E I 1 1 E E E E E E U 11 NANOSECONDS E E 
+JMH S 30 benchmark.WaveletTreeBenchmark S 66 benchmark.jmh_generated.WaveletTreeBenchmark_testBuildTree_jmhTest S 13 testBuildTree S 11 AverageTime E A 1 1 1 E I 1 2 E E I 1 5 E E I 1 1 E E E E E E U 11 NANOSECONDS E E 
+JMH S 30 benchmark.WaveletTreeBenchmark S 61 benchmark.jmh_generated.WaveletTreeBenchmark_testRank_jmhTest S 8 testRank S 11 AverageTime E A 1 1 1 E I 1 2 E E I 1 5 E E I 1 1 E E E E E E U 11 NANOSECONDS E E 

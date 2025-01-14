@@ -1,0 +1,4 @@
+Benchmark                           Mode  Cnt            Score           Error  Units
+WaveletTreeBenchmark.testAccess     avgt    5    453914382,114 ±  90509890,941  ns/op
+WaveletTreeBenchmark.testBuildTree  avgt    5  12867349795,600 ± 359399786,338  ns/op
+WaveletTreeBenchmark.testRank       avgt    5    426470829,412 ±  82543708,784  ns/op

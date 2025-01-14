@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.WaveletTreeTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-12-09T17:57:44" hostname="wie" time="0.021">
+  <properties/>
+  <testcase name="testBoundaries()" classname="org.WaveletTreeTest" time="0.014"/>
+  <testcase name="testRank()" classname="org.WaveletTreeTest" time="0.001"/>
+  <testcase name="testSingleCharSequence()" classname="org.WaveletTreeTest" time="0.002"/>
+  <testcase name="testAccess()" classname="org.WaveletTreeTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
